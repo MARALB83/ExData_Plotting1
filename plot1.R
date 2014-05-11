@@ -1,7 +1,7 @@
 ##Coursera Data Science Specialization
 ##Exploratory Data Analysis
 ##Assignment 1
-##Electric power consumption data
+##Electric power consumption data: Plot 1
 ##Student: Mario Albuquerque
 
 ##Load data
